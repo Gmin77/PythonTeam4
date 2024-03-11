@@ -1,3 +1,5 @@
-#재헌
+
+
 def plus(a,b):
-    return a+b
+    result=a+b
+    return result
